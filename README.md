@@ -3,6 +3,7 @@
 # Familiar with Git?
 Checkout this repo, install dependencies, then start the process with the following:
 ```
+https://github.com/Ritesh9811sahani/React-Native-Design
 
 cd Reaqct-Native-Design
 npm install
